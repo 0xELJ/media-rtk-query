@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Myra"
+    },
+    {
+      "name": "Elsie Price",
+      "id": "3"
+    },
+    {
+      "name": "Harold Strosin",
+      "id": "4"
+    }
+  ],
+  "albums": [
+    {
+      "id": "c6d0",
+      "userId": "3",
+      "title": "Unbranded Bronze Ball"
+    },
+    {
+      "id": "528b",
+      "userId": "1",
+      "title": "Recycled Fresh Chips"
+    },
+    {
+      "id": "5d92",
+      "userId": "4",
+      "title": "Licensed Concrete Table"
+    },
+    {
+      "id": "a5f0",
+      "userId": "4",
+      "title": "Rustic Steel Soap"
+    },
+    {
+      "id": "a2d3",
+      "userId": "3",
+      "title": "Oriental Wooden Tuna"
+    },
+    {
+      "id": "89d0",
+      "userId": "3",
+      "title": "Luxurious Concrete Hat"
+    }
+  ],
+  "photos": [
+    {
+      "id": "46be",
+      "url": "https://loremflickr.com/150/150/abstract?lock=81257",
+      "albumId": "c6d0"
+    },
+    {
+      "id": "06d2",
+      "url": "https://loremflickr.com/150/150/abstract?lock=35442",
+      "albumId": "a2d3"
+    },
+    {
+      "id": "9071",
+      "url": "https://loremflickr.com/150/150/abstract?lock=78715",
+      "albumId": "a2d3"
+    },
+    {
+      "id": "e850",
+      "url": "https://loremflickr.com/150/150/abstract?lock=22367",
+      "albumId": "a2d3"
+    },
+    {
+      "id": "bc21",
+      "url": "https://loremflickr.com/150/150/abstract?lock=6387",
+      "albumId": "5d92"
+    },
+    {
+      "id": "cd00",
+      "url": "https://loremflickr.com/150/150/abstract?lock=71296",
+      "albumId": "a5f0"
+    },
+    {
+      "id": "3232",
+      "url": "https://loremflickr.com/150/150/abstract?lock=42201",
+      "albumId": "89d0"
+    },
+    {
+      "id": "c64d",
+      "url": "https://loremflickr.com/150/150/abstract?lock=43279",
+      "albumId": "89d0"
+    },
+    {
+      "id": "ee5a",
+      "url": "https://loremflickr.com/150/150/abstract?lock=19220",
+      "albumId": "528b"
+    }
+  ]
+}
